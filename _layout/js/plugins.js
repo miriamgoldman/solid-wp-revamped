@@ -3,17 +3,7 @@
 	$(document).ready(function(){
 	//////////////////////////////////////////////////////////////////////////////////////////////////////////////						   
 		
-		// -------------------------------------------------------------------------------------------------------
-		// Cufon - font replacement
-		// -------------------------------------------------------------------------------------------------------
-		
-		if (themeCufon=='true'){
-			if ( ! ( $.browser.msie && ($.browser.version == 6) ) ){ // only apply cufon on modern browsers
-		
-				Cufon.replace('h1, h2, h3, h4, h5, h6, #dropdown-menu li a', {hover: true});
-			}
-			Cufon.now();
-		}
+
 		
 		// -------------------------------------------------------------------------------------------------------
 		// Tipsy - facebook like tooltips jQuery plugin
@@ -34,35 +24,7 @@
 			modal: false 						// If set to true, only the close button will close the window 
 		});
 		
-		// -------------------------------------------------------------------------------------------------------
-		// Cycle - slider jQuery plugin 
-		// -------------------------------------------------------------------------------------------------------
-		
-		if ($('#slideshow-index').size()){
-			$('#slideshow-index ul').cycle({
-				timeout: themeSliderTimeout,// milliseconds between slide transitions (0 to disable auto advance)
-				fx: 'fade',// choose your transition type, ex: fade, scrollUp, shuffle, etc...            
-				pager: '#index-slideshow-pager',// selector for element to use as pager container
-				delay: 0, // additional delay (in ms) for first transition (hint: can be negative)
-				speed: 1000,  // speed of the transition (any valid fx speed value) 
-				pause: true,// true to enable "pause on hover"
-				cleartypeNoBg: true,// set to true to disable extra cleartype fixing (leave false to force background color setting on slides)
-				pauseOnPagerHover: 0 // true to pause when hovering over pager link
-			});
-		}	
-		
-		if ($('#slideshow-portfolio').size()){
-			$('#slideshow-portfolio ul').cycle({ 
-				timeout: themeSliderTimeout,// milliseconds between slide transitions (0 to disable auto advance)
-				fx: 'fade',// choose your transition type, ex: fade, scrollUp, shuffle, etc...            
-				pager: '#portfolio-slideshow-pager',// selector for element to use as pager container
-				delay: 0, // additional delay (in ms) for first transition (hint: can be negative)
-				speed: 1000,  // speed of the transition (any valid fx speed value) 
-				pause: true,// true to enable "pause on hover"
-				cleartypeNoBg: true,// set to true to disable extra cleartype fixing (leave false to force background color setting on slides)
-				pauseOnPagerHover: 0 // true to pause when hovering over pager link
-			});
-		}	
+	
 
 		
 		// -------------------------------------------------------------------------------------------------------

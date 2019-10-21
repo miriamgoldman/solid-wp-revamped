@@ -8,18 +8,13 @@
 
 		<div id="footer">
 		
-		<!-- ///   FOOTER   //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 			<div class="hr"></div>	
 			
 			<div class="row fixed">
 				<?php ewf_setSection('zone-footer'); ?>
 				
 				<div class="col-460">
-					<?php 
-						ewf_setZone(460);
-						if ( !function_exists('dynamic_sidebar')  || !dynamic_sidebar('footer-left') ); 							
-					?>
+					&copy; <?php echo date('Y'). ' '.get_bloginfo('tagline'); ?> 
 				</div><!-- end .col-460 -->
 				
 				<div class="col-220">
@@ -38,14 +33,22 @@
 			
 			</div><!-- end .row -->
 			
-		<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 		
 		</div><!-- end #footer -->
 
 	<?php wp_footer(); ?>
 	
 	</div><!-- end #wrap -->
+<?php  if (is_front_page()) { ?>
+	<script>
+		$(document).ready(function(){
+			$('#slideshow-index').slick({
+				slide: 'li'
+			});
+		});
+	</script>
 
+<?php } ?>
 	
 </body>
 </html>

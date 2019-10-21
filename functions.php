@@ -27,4 +27,18 @@
  
 	ewf_setup_firstrun();
  
+ /* Support for Custom Logo in Customizer */
+ add_theme_support( 'custom-logo' );
+
+ /* Enqueue Slick ONLY on homepage */
+ function addSlickJs() {
+ 	 if (is_front_page()) {
+ 		wp_enqueue_style('slick', '//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css');
+ 		wp_enqueue_style('slicktheme','//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css');
+ 		wp_enqueue_script('slick', '//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js', array('jquery'), NULL, 1);
+ 	}
+ }
+ add_action('wp_enqueue_scripts', 'addSlickJs');
+
+
 ?>

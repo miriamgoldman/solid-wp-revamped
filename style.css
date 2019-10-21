@@ -43,14 +43,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 -----------------------------------------------------------------------------------------------*/
 	
 	body{ 
-		background:#EBF8FE url(_layout/images/bg-body.jp) repeat top left;
-		
-		/*
-		background:#EFF1F1 url(_layout/images/bg-body2.jpg) repeat top left;
-		background:#EFF1F1 url(_layout/images/bg-body3.jpg) repeat top left;
-		background:#EFF1F1 url(_layout/images/bg-body4.jpg) repeat top left;
-		background:#EFF1F1 url(_layout/images/bg-body5.jpg) repeat top left;
-		*/
+		background:#EBF8FE;
 		
 		font:12px Arial, sans-serif; 
 		line-height:20px;
@@ -192,8 +185,14 @@ h7{ font-weight: normal; color:#cccccc; font-size:8px; line-height:10px; margin-
 /* =LAYOUT
 -----------------------------------------------------------------------------------------------*/
 
-	#wrap{ width:940px; padding:0 40px; margin:0 auto; background-color:#ffffff;
-		   -moz-box-shadow:0 -10px 10px 0 #333; -webkit-box-shadow:0 -10px 10px 0 #333; box-shadow:0 -10px 10px 0 #333; }
+	#wrap{ 
+		max-width:940px; 
+		width:100%;
+		padding:0 40px; 
+		margin:0 auto; 
+		background-color:#ffffff;
+		box-shadow:0 -10px 10px 0 #333; 
+		}
 	
 	
 		#header{ padding-top:30px; }
@@ -487,4 +486,14 @@ h7{ font-weight: normal; color:#cccccc; font-size:8px; line-height:10px; margin-
 	#contact-form fieldset > div,#contact-form p{ padding:5px 0 5px 25px; margin:1px; }
 	p#formstatus{ border:none; border-bottom:1px solid #efefef; padding-right:25px; margin-bottom:10px; }
 		
-		
+/* HEADER */
+.site-tagline {
+	background:#35443d;
+	color:#FFF;
+	font-size:16px;
+	padding:0.5% 0 0.5% 4%;
+}		
+
+.menu-top-menu-container {
+	margin-top:8%;
+}
