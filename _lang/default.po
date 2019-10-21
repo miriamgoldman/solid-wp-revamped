@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Presenter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-29 14:14+0200\n"
+"PO-Revision-Date: 2011-05-29 14:14+0200\n"
+"Last-Translator: Nicolae Gabriel <ngabyn@gmail.com>\n"
+"Language-Team: bitpub\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: d:\\#work\\#WP-Presenter\\_backup\\29 Mai\n"
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:11
+msgid "Category"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:18
+#: Mai/header.php:16
+msgid "Archive"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:42
+#: Mai/index.php:29
+#: Mai/search.php:31
+#: Mai/single.php:22
+msgid "Posted by"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:42
+#: Mai/index.php:29
+#: Mai/search.php:31
+#: Mai/single.php:22
+msgid "Posted on"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:42
+#: Mai/index.php:29
+#: Mai/search.php:31
+#: Mai/single.php:22
+msgid "Comments"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/archive.php:46
+#: Mai/index.php:33
+#: Mai/page.php:42
+msgid "Read More"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:35
+#: Mai/comments.php:48
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:36
+#: Mai/comments.php:49
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:67
+msgid "Leave a Comment"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:72
+msgid "Your name"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:75
+msgid "Your Email Adress"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:78
+msgid "Message"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/comments.php:82
+msgid "Send!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/header.php:18
+msgid "Search for"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/header.php:22
+msgid "Not Found"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/header.php:53
+msgid "JavaScript seems to be Disabled!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/header.php:53
+msgid "Some of the website features are unavailable unless JavaScript is enabled."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/header.php:66
+#: Mai/header.php:74
+msgid "Back Home"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/index.php:8
+#: Mai/single.php:6
+msgid "Blog"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/page.php:75
+msgid "There are no slides, please add slides to show the slider!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/search.php:6
+msgid "Search"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/search.php:39
+msgid "No posts were found!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/single-project.php:59
+msgid "There are no images in the post, please add images to display the slide show!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/single-project.php:65
+msgid "Client"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/single-project.php:68
+msgid "Time Period"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/single-project.php:72
+msgid "Website"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/single-project.php:76
+msgid "Services provided"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/taxonomy.php:16
+msgid "Projects"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-layout.php:26
+msgid "Sidebar Layout Settings"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-layout.php:30
+msgid "Footer Layout Settings"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-menus.php:7
+msgid "Top Menu"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:17
+msgid "General"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:18
+#: Mai/_admin/functions-options.php:108
+msgid "Homepage"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:19
+msgid "Includes"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:34
+msgid "Choose the theme color"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:36
+msgid "Presenter comes with a default theme."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:41
+msgid "Cufon Fonts"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:42
+msgid "You can activate or deactivate cufon."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:43
+msgid "Use Cufon fonts"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:48
+msgid "Use Text "
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:49
+msgid "You can use text instead of images in the logo."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:50
+msgid "Use text in logo"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:56
+msgid "Logo title"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:57
+msgid "Please type the value of logo text."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:63
+msgid "Logo image"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:64
+msgid "Please type the url of the logo."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:70
+msgid "Contact mail"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:71
+msgid "Add an e-mail addres to receive mails sent by contact form."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:87
+msgid "Google Analytics"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:88
+msgid "Paste the analytics code "
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:94
+msgid "Extra CSS Code"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:95
+msgid "Paste extra css code here"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:111
+msgid "Homepage slider"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:112
+msgid "You can activate or deactivate the homepage slider."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:113
+msgid "Show slider on home page"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:118
+msgid "Slider text"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:119
+msgid "You can activate or deactivate the slider text from the bottom."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:120
+msgid "Show text on slides"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:125
+msgid "Slides link"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:126
+msgid "You can add links to slides."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:127
+msgid "Add links"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:133
+msgid "Slides delay"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:134
+msgid "Milliseconds between slide transitions <br/>(0 to disable auto advance)."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:203
+msgid "Theme Options"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:211
+msgid "Event Framework - Settings saved."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:215
+msgid "Event Framework - Settings reset."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:219
+msgid "Event Framework - The theme has been installed!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-options.php:415
+#: Mai/_admin/functions-options.php:418
+msgid "No e-mails for the moment."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-setup.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-setup.php:106
+#: Mai/_admin/functions-setup.php:116
+msgid "Edit"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-setup.php:116
+msgid "Pingback:"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-shortcodes.php:198
+#: Mai/_admin/functions-type-project.php:360
+msgid "Page "
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-shortcodes.php:309
+msgid "more"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-shortcodes.php:514
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-shortcodes.php:515
+msgid "Submit"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-shortcodes.php:970
+msgid "Subject"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:9
+msgid "Footer Left"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:9
+#: Mai/_admin/functions-sidebars.php:11
+msgid "In the footer the left column"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:10
+msgid "Footer Center"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:10
+msgid "In the footer the center column"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:11
+msgid "Footer Right"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:17
+msgid "Sidebar page"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-sidebars.php:17
+msgid "Page sidebar"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:23
+msgid "Projects settings"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:42
+msgid "Date interval"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:46
+msgid "Project URL"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:90
+#: Mai/_admin/functions-type-project.php:277
+msgid "There is no featured image, please add one!"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:97
+msgid "read more"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:211
+msgid "view more work"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:313
+msgid "Project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:314
+#: Mai/_admin/functions-type-slide.php:19
+msgid "Add New"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:315
+msgid "Add New Project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:317
+msgid "Edit Project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:318
+msgid "New Project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:319
+#: Mai/_admin/functions-type-project.php:320
+msgid "View Project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:321
+msgid "Search Projects"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:322
+msgid "No projects found"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:323
+msgid "No projects found in Trash"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:324
+msgid "Parent project"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-project.php:338
+msgid "Services"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:17
+msgid "Slides"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:18
+msgid "Slide"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:20
+msgid "Add New Slide"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:22
+msgid "Edit Slide"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:23
+msgid "New Slide"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:24
+#: Mai/_admin/functions-type-slide.php:25
+msgid "View Slide"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:26
+msgid "Search Slides"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:27
+msgid "No slides found"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:28
+msgid "No slides found in Trash"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:29
+msgid "Parent slides"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:40
+msgid "Slides settings"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:63
+msgid "Slide URL"
+msgstr ""
+
+#: d:\#work\#WP-Presenter\_backup\29
+#: Mai/_admin/functions-type-slide.php:67
+msgid "Link Title"
+msgstr ""
+

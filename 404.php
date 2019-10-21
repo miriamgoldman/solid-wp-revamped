@@ -1,0 +1,1 @@
+We're sorry the page you have entered does not exist. Visit our main page by visiting <a href="http://www.DovercourtEditorial.ca">DovercourtEditorial.ca</a> 
